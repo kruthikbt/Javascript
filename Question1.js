@@ -1,4 +1,4 @@
-//Calculate teh average marks of four students and print the average
+//Calculate the average marks of four students and print the average
 
 let sum=0;
 let marks=[56,78,79,80];
