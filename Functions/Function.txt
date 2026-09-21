@@ -1,0 +1,2 @@
+reduces the redundancy-reduces the repeatation .
+the parameters of the functions are local variables and they are block scope.and cannot be accesed outside {}

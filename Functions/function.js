@@ -1,8 +1,14 @@
-function myFunction() {   // Function definition by using function keyword
+// function myFunction() {   // Function definition by using function keyword
 
-    console.log("Hello World!");
-    console.log("I love Web Developent!");
+//     console.log("Hello World!");
+//     console.log("I love Web Developent!");
 
+// }
+
+// myFunction(); // Function Call..
+
+function myArray(msg){
+    console.log(msg);  // Parameter Passing
 }
 
-myFunction(); // Function Call..
+myArray("Artificial Genreal Intelligence"); //Argumnet passing
