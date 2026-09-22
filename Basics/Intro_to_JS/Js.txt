@@ -1,0 +1,29 @@
+let and const are  a block scope elements- They can be accessed within the block {} not outside that.
+whereas the var is global scope.
+
+to see the type of data type just type the "typeof variableName"
+Boolean Values are:"true or false and" not "True or False"
+
+If we want to access any values from the object we use variablename["key"]
+        ex:student["age"]
+
+if const is a name of object then the value of keys can be updated.
+
+
+
+Opertaors:
+Arithmetic operators- These are the operators that perform arithmetic operations on numbers.
+ex: +, -, *, /, %, ++, --.
+        unary operators- These are the operators that operate on a single operand.
+        ex: ++, --, !, typeof, delete.
+
+⭐ Assignament Operators -Thses are  the operstors that are used to assign the values.
+        ex: =, +=, -=, *=, /=, %=.
+⭐ Comparison Operators- These are the operators that are used to compare two values.
+        ex: ==, ===, !=, !==, >,  , >=, <=.
+⭐ Logical Operators- These are the operators that are used to combine two or more conditions.
+        ex: &&, ||, !.
+        Logicaland,Logical or ,Logical not.
+⭐ Ternary Operators- These are the operators that are used to assign a value based on a condition.
+        ex: condition ? true output : false output .
+        value 1 and 2 are the output one is true and the other is false.
