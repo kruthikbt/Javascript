@@ -1,0 +1,21 @@
+h1{
+    color:aqua;
+}
+
+button{
+    background-color: azure;
+    color:aqua;
+}
+
+body{
+    background-color: blueviolet;
+}
+
+#one{
+    color:aliceblue;
+}
+
+.myclass{
+    color:aquamarine;
+}
+
