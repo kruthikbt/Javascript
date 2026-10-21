@@ -1,0 +1,12 @@
+DOM is mainly used for dynamic changes/Manupulation  in the website without changing the html or css.
+if we write <script></script> code before body inside head we cannot access the dom body elements so we write outside the body to access the body elements.
+
+if we are searching an element in the html through javascript using an id name i.e getElementbyId(),if id doesnt exist it returns 'null'  as the output.
+
+
+if we are searching an element in the html through javascript using an id name i.e getElementbyClassName(),if id doesnt exist it returns 'HTML Collection[] with length 0'  as the output.
+
+querySelector("element")-- returns the first element of the given class/id/tagname if multiple are present.
+
+querySelectorAll("element")--gives all the content present in the added element.
+Totally querySelectorAll returns Nodelist.
