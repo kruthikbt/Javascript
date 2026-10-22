@@ -229,15 +229,7 @@ Algorithms
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kruthikbt&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kruthikbt&layout=compact&theme=tokyonight&hide_border=true" height="170">
-
-</div>
 
 ---
 
@@ -250,14 +242,6 @@ Algorithms
 </div>
 
 ---
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/kruthikbt/kruthikbt/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation">
-
-</div>
 
 ---
 
