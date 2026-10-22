@@ -1,0 +1,8 @@
+#new_id{
+    height:50px;
+    width:50px;
+    background-color: aqua;
+    border:1px solid black;
+    color:white;
+    display:flex;
+}
