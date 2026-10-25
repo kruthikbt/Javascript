@@ -86,13 +86,13 @@ JavaScript
 | 🟢 Operators              | ✅ Completed |
 | 🟢 Conditionals           | ✅ Completed |
 | 🟢 Loops                  | ✅ Completed |
-| 🟢 Functions              | 🔄 Learning |
-| 🟢 Arrow Functions        | 🔄 Learning |
-| 🟡 Arrays                 | 🔄 Learning |
-| 🟡 Array Methods          | 🔄 Learning |
-| 🟡 Objects                | ⏳ Upcoming  |
-| 🔵 DOM Manipulation       | ⏳ Upcoming  |
-| 🔵 Events                 | ⏳ Upcoming  |
+| 🟢 Functions              | ✅ Completed|
+| 🟢 Arrow Functions        | ✅ Completed |
+| 🟡 Arrays                 | ✅ Completed |
+| 🟡 Array Methods          | ✅ Completed |
+| 🟡 Objects                | ✅ Completed |
+| 🔵 DOM Manipulation       | ✅ Completed |
+| 🔵 Events                 | 🔄 Learning |
 | 🟣 Async JavaScript       | ⏳ Upcoming  |
 | 🟣 APIs & Fetch           | ⏳ Upcoming  |
 | 🔴 Advanced JavaScript    | ⏳ Upcoming  |
