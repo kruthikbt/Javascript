@@ -1,0 +1,22 @@
+#box1{
+    height:100px;
+    width:100px;
+    background-color: blue;
+    color:aliceblue;
+    border:1px solid black;
+     margin-top: 5px;
+}
+
+#box2{
+    height:100px;
+    width:100px;
+    background-color: blue;
+    color:aliceblue;
+    border:1px solid black;
+    margin-top: 50px;
+
+}
+
+#btn3{
+    margin-top: 5px;
+}

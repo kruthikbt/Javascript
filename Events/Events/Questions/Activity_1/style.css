@@ -1,0 +1,38 @@
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+}
+
+#btn1{
+    width:100px;
+    height:100px;
+}
+
+#btn2{
+    width:100px;
+    height:100px;
+    margin-left: 8px;
+}
+
+.light{
+    background-color: white;
+    color:black;
+}
+
+.dark{
+    background-color: black;
+    color:white;
+}
+
+.blue{
+    background-color: blue;
+    color:white;
+}
+
+.red{
+    background-color: red;
+    color: azure;
+}

@@ -1,0 +1,3 @@
+When we fire an event by using both inline and js method, the js method will have higher precedence
+When we write the same event two times the recent written event will be overwritten on the previously created event.
+To add any event we commonly use addEventListener because it donot overwrite but adds more handlers to the same event.
