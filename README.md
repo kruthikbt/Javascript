@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ JavaScript Journey
+# ⚡ JavaScript  Journey
 
 ### 🚀 Learning JavaScript • Building Projects • Solving Problems
 
